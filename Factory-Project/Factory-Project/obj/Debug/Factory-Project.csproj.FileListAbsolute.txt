@@ -1,0 +1,8 @@
+C:\Users\ahmad\Desktop\opp-factory-project\Factory-Project\Factory-Project\bin\Debug\Factory-Project.exe.config
+C:\Users\ahmad\Desktop\opp-factory-project\Factory-Project\Factory-Project\bin\Debug\Factory-Project.exe
+C:\Users\ahmad\Desktop\opp-factory-project\Factory-Project\Factory-Project\bin\Debug\Factory-Project.pdb
+C:\Users\ahmad\Desktop\opp-factory-project\Factory-Project\Factory-Project\obj\Debug\Factory-Project.csproj.AssemblyReference.cache
+C:\Users\ahmad\Desktop\opp-factory-project\Factory-Project\Factory-Project\obj\Debug\Factory-Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmad\Desktop\opp-factory-project\Factory-Project\Factory-Project\obj\Debug\Factory-Project.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\Desktop\opp-factory-project\Factory-Project\Factory-Project\obj\Debug\Factory-Project.exe
+C:\Users\ahmad\Desktop\opp-factory-project\Factory-Project\Factory-Project\obj\Debug\Factory-Project.pdb

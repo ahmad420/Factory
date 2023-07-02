@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Factory_Project
 {
-    internal class Program
+    internal class Employee
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine( "hello world");
-        }
     }
 }
