@@ -1,0 +1,9 @@
+[
+  {
+    "Id": "EMP001",
+    "Name": "John Smith",
+    "PhoneNumber": "1234567891",
+    "Salary": 1500,
+    "JoiningDate": "2023-06-20T20:52:08.4137419+03:00"
+  }
+]

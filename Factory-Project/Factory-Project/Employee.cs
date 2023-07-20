@@ -33,7 +33,7 @@ namespace Factory_Project
             Name = name;
             PhoneNumber = phoneNumber;
             Salary = salary;
-            JoiningDate = joiningDate;
+            JoiningDate = DateTime.Now;
 
             IncrementEmployeeCount();
         }
@@ -42,12 +42,21 @@ namespace Factory_Project
         {
             employeeCount++;
         }
+        public int GetemployeeCount()
+        {
+            return employeeCount;
+        }
 
         public abstract void PerformDuties();
 
         public static void DecrementEmployeeCount()
         {
             employeeCount--;
+        }
+
+        public override string ToString()
+        {
+            return $"ID: {Id}, Name: {Name}, Phone Number: {PhoneNumber}, Salary: {Salary}, Joining Date: {JoiningDate}";
         }
     }
 }

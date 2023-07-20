@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "iPhone 12",
+    "Barcode": "1234567891",
+    "Count": 5,
+    "DateAdded": "2023-07-10T20:44:29.5645176+03:00"
+  }
+]
+[
+  {
+    "Id": "EMP001",
+    "Name": "John Smith",
+    "PhoneNumber": "1234567891",
+    "Salary": 1500,
+    "JoiningDate": "2023-06-20T20:44:29.5512257+03:00"
+  }
+]

@@ -1,0 +1,27 @@
+TotalRevenue:100000.
+
+Products:
+iPhone 12, 1234567891, 5, 2023-07-12, 899.99
+Samsung Galaxy S21, 1234567892, 8, 2023-02-17, 799.99
+Sony PlayStation 5, 1234567893, 3, 2022-11-14, 499.99
+Nike Air Max 270, 1234567894, 10, 2023-05-28, 149.99
+Canon EOS R5, 1234567895, 2, 2023-07-15, 2499.99
+Apple AirPods Pro, 1234567896, 6, 2023-02-20, 199.99
+Dell XPS 15, 1234567897, 4, 2023-05-25, 1799.99
+Nintendo Switch, 1234567898, 7, 2023-06-09, 299.99
+Adidas Ultraboost, 1234567899, 9, 2021-09-14, 129.99
+LG OLED CX Series, 1234567810, 1, 2023-07-13, 1499.99
+
+Employees:
+ID: EMP001, Name: John Smith, Phone Number: 1234567891, Salary: 1500, Joining Date: 2023-06-22, Type: Worker, Department: Production
+ID: EMP002, Name: Emily Johnson, Phone Number: 1234567892, Salary: 1600, Joining Date: 2023-06-07, Type: Worker, Department: Production
+ID: EMP003, Name: Michael Williams, Phone Number: 1234567893, Salary: 1400, Joining Date: 2023-05-23, Type: Worker, Department: Maintenance
+ID: EMP004, Name: Olivia Brown, Phone Number: 1234567894, Salary: 1700, Joining Date: 2023-07-02, Type: Worker, Department: Maintenance
+ID: EMP005, Name: James Davis, Phone Number: 1234567895, Salary: 1550, Joining Date: 2023-07-07, Type: Worker, Department: Production
+ID: EMP006, Name: Sophia Wilson, Phone Number: 1234567896, Salary: 1450, Joining Date: 2023-07-12, Type: Worker, Department: Maintenance
+ID: EMP007, Name: Liam Anderson, Phone Number: 1234567897, Salary: 1550, Joining Date: 2023-06-27, Type: Worker, Department: Production
+ID: EMP008, Name: Isabella Martinez, Phone Number: 1234567898, Salary: 1650, Joining Date: 2023-06-17, Type: Worker, Department: Maintenance
+ID: EMP009, Name: Mason Taylor, Phone Number: 1234567899, Salary: 1600, Joining Date: 2023-06-02, Type: Worker, Department: Production
+ID: EMP010, Name: Ava Clark, Phone Number: 1234567890, Salary: 1500, Joining Date: 2023-06-12, Type: Worker, Department: Maintenance
+ID: EMP011, Name: Oliver Rodriguez, Phone Number: 1234567811, Salary: 1800, Joining Date: 2023-07-07, Type: Supervisor, Department: Production
+ID: EMP012, Name: Charlotte Lee, Phone Number: 1234567812, Salary: 1900, Joining Date: 2023-07-02, Type: Supervisor, Department: Maintenance
