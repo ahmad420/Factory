@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace Factory_Project
 {
-    internal class Supervisor : Employee
+    internal class Worker : Employee
     {
         public string Department { get; set; }
 
-    
-
-        public Supervisor(string id, string name, string phoneNumber, decimal salary, DateTime joiningDate, string department)
+        public Worker(string id, string name, string phoneNumber, decimal salary, DateTime joiningDate, string department)
             : base(id, name, phoneNumber, salary, joiningDate)
         {
             Department = department;
@@ -20,7 +18,9 @@ namespace Factory_Project
 
         public override void PerformDuties()
         {
-            Console.WriteLine("Supervisor duties: Manage and supervise the team.");
+            Console.WriteLine("Worker performing duties.");
+            
         }
     }
+
 }

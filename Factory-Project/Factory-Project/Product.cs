@@ -28,5 +28,9 @@ namespace Factory_Project
             Count = count;
             DateAdded = dateAdded;
         }
+        public override string ToString()
+        {
+            return $"Name: {Name}, Barcode: {Barcode}, Count: {Count}, Date Added: {DateAdded}";
+        }
     }
 }

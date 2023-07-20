@@ -49,5 +49,10 @@ namespace Factory_Project
         {
             employeeCount--;
         }
+
+        public override string ToString()
+        {
+            return $"ID: {Id}, Name: {Name}, Phone Number: {PhoneNumber}, Salary: {Salary}, Joining Date: {JoiningDate}";
+        }
     }
 }
