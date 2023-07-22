@@ -36,5 +36,6 @@ namespace Factory_Project
         {
             return $"Name: {Name}, Barcode: {Barcode}, Count: {Count}, Date Added: {DateAdded}, Price: {Price:C}";
         }
+    
     }
 }
